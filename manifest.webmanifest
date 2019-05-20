@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "Este es el sitio del instituto de la columna vertebral",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "img/icons/molecule.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Instituto de la cirugia vertebral",
+  "short_name": "Cirugia",
+  "start_url": "index.html"
+}

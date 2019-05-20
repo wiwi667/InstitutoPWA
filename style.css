@@ -1,0 +1,16 @@
+    /* ----------------------------------------------------------
+    :: Template Name: Studio - Creative Photography Template
+    :: Author: Colorlib
+    :: Author URL: https://colorlib.com
+    :: Version: 1.0.0
+    :: Created: 31 January 2018
+    :: Last Updated: 31 January 2018
+    ---------------------------------------------------------- */
+
+    /* ============ PLACE YOUR CUSTOM CSS HERE ============ */
+.add-button {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  display:none;
+}
